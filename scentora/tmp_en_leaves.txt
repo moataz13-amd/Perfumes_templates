@@ -1,0 +1,236 @@
+common.appName	SCENTORA
+common.tagline	Discover Your Signature Scent.
+common.freeShipping	FREE SHIPPING ON ORDERS OVER $100
+common.giftWrapping	GIFT WRAPPING AVAILABLE
+common.menu	Menu
+common.openMenu	Open menu
+common.search	Search
+common.searchPlaceholder	Search fragrances, brands, notesâ€¦
+common.account	Account
+common.signIn	Sign in
+common.signOut	Sign out
+common.wishlist	Wishlist
+common.cart	Cart
+common.viewCart	View cart
+common.checkout	Checkout
+common.backToShop	Back to shop
+common.loading	Loadingâ€¦
+common.noResults	No results found
+common.notFound	Page not found
+common.goHome	Go home
+common.subscribe	Subscribe
+common.readMore	Read more
+common.seeAll	View all
+common.save	Save
+common.remove	Remove
+common.addToCart	Add to Cart
+common.addToWishlist	Add to wishlist
+common.addedToWishlist	Added to wishlist
+common.inStock	In Stock
+common.lowStock	Low Stock
+common.outOfStock	Out of Stock
+common.onSale	Sale
+common.newArrival	New
+common.bestSeller	Best Seller
+common.price	Price
+common.rating	Rating
+common.reviews	reviews
+common.quantity	Quantity
+common.subtotal	Subtotal
+common.total	Total
+common.free	Free
+common.apply	Apply
+common.cancel	Cancel
+common.clearAll	Clear all
+common.filters	Filters
+common.showResults_one	Show {{count}} result
+common.showResults_other	Show {{count}} results
+common.categoryMen	Men
+common.categoryWomen	Women
+common.categoryUnisex	Unisex
+common.viewBrand	View Brand
+nav.shop	Shop
+nav.men	Men
+nav.women	Women
+nav.unisex	Unisex
+nav.brands	Brands
+nav.newArrivals	New Arrivals
+nav.bestSellers	Best Sellers
+nav.sale	Sale
+announcement.freeShipping	FREE SHIPPING ON ORDERS OVER $100
+announcement.giftWrapping	GIFT WRAPPING AVAILABLE
+header.announcementFreeShipping	FREE SHIPPING ON ORDERS OVER $100 â€” GIFT WRAPPING AVAILABLE
+header.wishlistLabel	Wishlist, {{count}} items
+header.cartLabel	Cart, {{count}} items
+header.myAccount	My Account
+header.orders	Orders
+header.wishlistLink	Wishlist
+header.logout	Log out
+header.adminDashboard	Admin Dashboard
+footer.newsletterTitle	Join the inner circle
+footer.newsletterText	Early access to drops, members-only prices and fragrance stories. 10% off your first order.
+footer.newsletterDone	You're on the list. Welcome!
+footer.namespace_shop	Shop
+footer.namespace_collections	Collections
+footer.namespace_company	Company
+footer.namespace_support	Support
+footer.allFragrances	All Fragrances
+footer.giftSets	Gift Sets
+footer.newArrivals	New Arrivals
+footer.bestSellers	Best Sellers
+footer.aboutUs	About Us
+footer.contact	Contact
+footer.faq	FAQ
+footer.blog	Blog
+footer.careers	Careers
+footer.shippingReturns	Shipping & Returns
+footer.orderTracking	Order Tracking
+footer.privacyPolicy	Privacy Policy
+footer.termsOfService	Terms of Service
+footer.aboutText	A modern multi-brand fragrance house. We source the world's most iconic perfumes from the desks of Paris, Milan and beyond.
+footer.rights	Â© {{year}} SCENTORA. All rights reserved.
+footer.disclaimer	SCENTORA is an independent retailer and not affiliated with the brands featured. All trademarks belong to their respective owners.
+footer.newsletterEmail	Your email address
+home.heroHeadingOne	Signature
+home.heroHeadingTwo	Fragrances
+home.heroSub	Hand-picked bottles for people who care what they smell like.
+home.shopNow	Shop Now
+home.exploreBrands	Explore Brands
+home.valueFreeShipping	Free Express Shipping
+home.valueAuthentic	100% Authentic
+home.valueExchange	Easy 30-day Exchange
+home.valueSecure	Secure Checkout
+home.featuredTitle	Featured Fragrances
+home.featuredSeeAll	View all
+home.categoriesTitle	Shop by Category
+home.brandsTitle	Featured Brands
+home.collectionsTitle	Curated Collections
+home.testimonialsTitle	Loved by Scent Lovers
+home.testimonialRating	Average rating {{rating}} Â· {{count}}+ reviews
+home.editorialEyebrow	The Scentora Edit
+home.editorialTitle	Rules of Attraction
+home.editorialText	How to smell unforgettable every single day.
+home.familyTitle	Find Your Scent Family
+home.newsletterTitle	Join the Inner Circle
+shop.title	All Fragrances
+shop.titleNiche	Niche Fragrances
+shop.titleGiftSets	Gift Sets
+shop.titleSale	Sale
+shop.subtitle	{{count}} fragrances from the world's most celebrated houses.
+shop.sortTopLabel	Sort:
+shop.sortFeatured	Featured
+shop.sortBestSelling	Best Selling
+shop.sortNewest	Newest
+shop.sortPriceLow	Price: Low to High
+shop.sortPriceHigh	Price: High to Low
+shop.sortHighestRated	Highest Rated
+shop.filterBrand	Brand
+shop.filterGender	Gender
+shop.filterCategory	Category
+shop.filterFamily	Fragrance Family
+shop.filterConcentration	Concentration
+shop.filterSize	Size
+shop.filterPrice	Price
+shop.filterRating	Rating
+shop.filterAvailability	Availability
+shop.filterAll	All
+shop.filterInStock	In Stock
+shop.filterLowStock	Low Stock
+shop.filterOutOfStock	Out of Stock
+shop.filterUpTo	{{price}} & above
+shop.clearAll	Clear all
+shop.filtersActive_one	{{count}} filter active
+shop.filtersActive_other	{{count}} filters active
+shop.emptyTitle	No fragrances match
+shop.emptyText	Try adjusting or removing some filters to find what you're looking for.
+shop.clearFilters	Clear all filters
+shop.showingResults	Showing {{shown}} of {{total}}
+filters.brand	Brand
+filters.gender	Gender
+filters.category	Category
+filters.family	Fragrance Family
+filters.families.woody	Woody & Earthy
+filters.families.floral	Floral
+filters.families.fresh	Fresh & Aquatic
+filters.families.oriental	Oriental & Amber
+filters.families.smoky	Smoky & Leather
+filters.families.gourmand	Gourmand
+filters.concentration	Concentration
+filters.size	Size
+filters.price	Price
+filters.rating	Rating
+filters.availability	Availability
+filters.all	All
+filters.inStock	In Stock
+filters.lowStock	Low Stock
+filters.outOfStock	Out of Stock
+filters.starAbove	â˜… {{rating}} & above
+filters.filterBy	Filter by
+filters.apply	Apply filters
+filters.results_one	{{count}} result
+filters.results_other	{{count}} results
+filters.active_one	{{count}} active
+filters.active_other	{{count}} active
+product.brand	Brand
+product.category	Category
+product.gender	Gender
+product.concentration	Concentration
+product.size	Size
+product.scentFamily	Scent Family
+product.rating	Rating
+product.reviews	Reviews
+product.outOfStock	Out of stock
+product.addToCart	Add to Cart
+product.addedToCart	Added to cart
+product.wishlist	Wishlist
+product.inWishlist	In wishlist
+product.share	Share
+product.description	Description
+product.notes	Fragrance Notes
+product.topNotes	Top Notes
+product.heartNotes	Heart Notes
+product.baseNotes	Base Notes
+product.relatedTitle	You May Also Like
+product.quantity	Quantity
+product.yourPrice	Your price
+product.compareAt	Compare at
+product.savePercent	Save {{percent}}%
+product.limitedTime	Limited time
+product.unit	ml
+brands.title	Discover the Houses
+brands.subtitle	Explore {{count}} fragrance houses and their most beloved scents.
+brands.est	Est. {{year}} Â· {{country}}
+brands.viewCollection	View Collection
+brandDetails.collection	Collection
+brandDetails.browseAll	Browse all fragrances
+brandDetails.heroEyebrow	Featured House
+brandDetails.est	Est. {{year}}
+about.heroEyebrow	Our Story
+about.heroTitle	At Scentora, we chase the rare.
+about.heroText	We travel the world to find fragrances that feel personal.
+cart.title	Your Cart
+cart.emptyTitle	Your cart is empty
+cart.emptyText	Looks like you haven't added anything yet.
+cart.startShopping	Start shopping
+cart.subtotal	Subtotal
+cart.shipping	Shipping
+cart.tax	Tax
+cart.total	Total
+cart.checkout	Checkout
+cart.freeShippingNotice	You're only ${{remaining}} away from free shipping.
+cart.secureCheckout	Secure checkout Â· Encrypted payment
+checkout.title	Checkout
+checkout.contactInfo	Contact information
+checkout.shippingAddress	Shipping address
+checkout.deliveryMethod	Delivery method
+checkout.paymentMethod	Payment method
+checkout.placeOrder_one	Place order Â· ${{total}}
+checkout.placeOrder_other	Place order Â· ${{total}}
+checkout.orderSummary	Order summary
+account.orders	Orders
+account.wishlist	Wishlist
+account.addresses	Addresses
+account.profile	Profile
+account.changePassword	Change password
+account.logout	Log out
+wishlist.title	Your Wishlist

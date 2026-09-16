@@ -1,0 +1,12 @@
+const fs = require('fs');
+const en = JSON.parse(fs.readFileSync('src/i18n/locales/en.json', 'utf8'));
+const ar = JSON.parse(fs.readFileSync('src/i18n/locales/ar.json', 'utf8'));
+const leaves = (o) => { const out = []; (function w(n, p) { for (const k in n) { const v = n[k]; const q = p ? p + '.' + k : k; if (v && typeof v === 'object') w(v, q); else out.push(q); } })(o, ''); return out; };
+const enL = new Set(leaves(en));
+const arL = new Set(leaves(ar));
+const missing = [...enL].filter(x => !arL.has(x));
+const extra = [...arL].filter(x => !enL.has(x));
+console.log('=== MISSING in ar.json (' + missing.length + ') ===');
+console.log(missing.join('\n'));
+console.log('=== EXTRA keys in ar.json (' + extra.length + ') ===');
+console.log(extra.join('\n'));
